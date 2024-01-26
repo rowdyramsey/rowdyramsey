@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rowdyramsey (aka Dram)
 - 👀 I’m interested in riding bikes, floating rivers and now coding/web development/data
-- 🌱 I’m currently learning python and SQL
+- 🌱 I’m currently learning HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on ...anything simple, really
 - 📫 How to reach me dylanmontanaramsey@gmail.com
 
